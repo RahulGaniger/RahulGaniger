@@ -90,6 +90,6 @@ I enjoy building scalable backend systems, designing REST APIs, and developing m
 
 ## 🔗 Connect With Me
 
-GitHub: https://github.com/yourusername
-LinkedIn: https://linkedin.com/in/yourprofile
-Email: [ganigerrahul1709@gmail.com](mailto:ganigerrahul1709@gmail.com)
+GitHub: https://github.com/yourusername.
+LinkedIn: https://linkedin.com/in/yourprofile.
+Email: [ganigerrahul1709@gmail.com](mailto:ganigerrahul1709@gmail.com).

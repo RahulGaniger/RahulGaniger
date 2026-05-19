@@ -1,7 +1,10 @@
 # Hi, I'm Rahul Ganiger 👋
 
-Full Stack Developer specializing in **Python, Django, and Next.js**.
-I enjoy building scalable backend systems, designing REST APIs, and developing modern web applications.
+Results-driven Python Full Stack Developer with 3+ years of experience building scalable fintech and enterprise web 
+applications. Proficient in Django REST Framework, microservices architecture, and modern frontend development 
+with Next.js and React. Proven track record delivering production-grade banking platforms (core banking, KYC) with 
+secure authentication, Kafka-based event-driven systems, and cloud deployments on GCP. Adept at end-to-end 
+development — from API design and database optimization to responsive UI implementation.
 
 📍 Bangalore, India
 📫 [ganigerrahul1709@gmail.com](mailto:ganigerrahul1709@gmail.com)
@@ -55,11 +58,16 @@ I enjoy building scalable backend systems, designing REST APIs, and developing m
 
 **Tech:** Django, REST APIs, CockroachDB, Kafka, Next.js, TypeScript
 
-* Built backend services and REST APIs for **loan management, deposit accounts, and financial transactions**.
-* Developed responsive **Next.js dashboards for banking operations**.
-* Implemented an **API Gateway with caching, rate limiting, and circuit breaker patterns**.
-* Designed **financial data models and database schemas** for core banking modules.
-* Implemented **event-driven architecture using Kafka** for asynchronous service communication.
+* Built and maintained backend microservices for loan management, deposit accounts, and financial 
+transactions processing using Django REST Framework. 
+• Designed and implemented an API Gateway with caching, rate limiting, and circuit-breaker patterns, 
+improving platform reliability and reducing downstream failures. 
+• Implemented event-driven architecture using Apache Kafka to decouple services and support high
+throughput asynchronous processing across banking workflows. 
+• Developed responsive banking dashboards and operational UIs using Next.js and Tailwind CSS, improving 
+operator efficiency. 
+• Contributed to financial data modelling and Cockroach DB schema design for accounts, transactions, 
+and customer records at scale. 
 
 ---
 
